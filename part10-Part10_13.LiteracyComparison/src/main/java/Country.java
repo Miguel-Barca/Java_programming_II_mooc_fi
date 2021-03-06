@@ -25,52 +25,9 @@ public class Country {
         this.literacyPerc = literacyPerc;
     }
 
-    public String getTheme() {
-        return theme;
-    }
-
-    public void setTheme(String theme) {
-        this.theme = theme;
-    }
-
-    public String getAgeGroup() {
-        return ageGroup;
-    }
-
-    public void setAgeGroup(String ageGroup) {
-        this.ageGroup = ageGroup;
-    }
-
-    public String getGender() {
-        return gender;
-    }
-
-    public void setGender(String gender) {
-        this.gender = gender;
-    }
-
-    public String getNameOfCountry() {
-        return nameOfCountry;
-    }
-
-    public void setNameOfCountry(String nameOfCountry) {
-        this.nameOfCountry = nameOfCountry;
-    }
-
-    public int getYear() {
-        return year;
-    }
-
-    public void setYear(int year) {
-        this.year = year;
-    }
 
     public Double getLiteracyPerc() {
         return literacyPerc;
-    }
-
-    public void setLiteracyPerc(Double literacyPerc) {
-        this.literacyPerc = literacyPerc;
     }
 
     @Override
