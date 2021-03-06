@@ -39,9 +39,5 @@ public class LiteracyComparison {
                 })
                 .forEach(c -> System.out.println(c.toString()));
     }
-    
-    //In the future try working on the stream
-    public static String trimOperation(String string) {
-        return "";
-    }
+   
 }
